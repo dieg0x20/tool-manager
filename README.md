@@ -65,6 +65,8 @@ Este script permite instalar várias ferramentas de desenvolvimento e utilitári
     ```bash
     ./instalar_ferramentas.sh --all
     ```
+![image](https://uploaddeimagens.com.br/images/004/808/133/full/canivete.png?1720114403)
+
 
 ## Estrutura do Script
 
